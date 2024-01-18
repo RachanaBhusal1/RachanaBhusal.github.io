@@ -3,12 +3,12 @@ import './Navbar.css'
 import { Link } from "react-router-dom";
 const Navbar = () =>{
     return(
-        <nav classNAme="navbar">
+        <nav className="navbar">
  <div className="header"> 
                          <h1>Cafe@Belco</h1>
 </div>
 <ul>
-<li><Link to={'/'} className>Home</Link></li>
+<li><Link to={'/'}>Home</Link></li>
 <li><Link to={'/menu'}>Menu</Link></li>
 <li><Link to={'/aboutus'}>AboutUs</Link></li>
 <li><Link to={'/contact'}>ContactUs</Link></li>
