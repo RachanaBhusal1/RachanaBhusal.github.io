@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/css/main.f855e6bc.css",
-    "main.js": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/js/main.117aca9e.js",
-    "static/js/787.17a8ce6c.chunk.js": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/js/787.17a8ce6c.chunk.js",
-    "static/media/logo.svg": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/RachanaBhusal1/RachanaBhusal.github.io.git/index.html",
-    "main.f855e6bc.css.map": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/css/main.f855e6bc.css.map",
-    "main.117aca9e.js.map": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/js/main.117aca9e.js.map",
-    "787.17a8ce6c.chunk.js.map": "/RachanaBhusal1/RachanaBhusal.github.io.git/static/js/787.17a8ce6c.chunk.js.map"
+    "main.css": "/RachanaBhusal1/RachanaBhusal.github.io/static/css/main.894cc4b1.css",
+    "main.js": "/RachanaBhusal1/RachanaBhusal.github.io/static/js/main.586a8b0c.js",
+    "static/js/787.635aedaa.chunk.js": "/RachanaBhusal1/RachanaBhusal.github.io/static/js/787.635aedaa.chunk.js",
+    "static/media/food6.PNG": "/RachanaBhusal1/RachanaBhusal.github.io/static/media/food6.d57c8d86612c41f401ed.PNG",
+    "static/media/food5.PNG": "/RachanaBhusal1/RachanaBhusal.github.io/static/media/food5.a650202b6b708511ba60.PNG",
+    "static/media/food4.PNG": "/RachanaBhusal1/RachanaBhusal.github.io/static/media/food4.47d54ed9fa5935b8f2a5.PNG",
+    "index.html": "/RachanaBhusal1/RachanaBhusal.github.io/index.html",
+    "main.894cc4b1.css.map": "/RachanaBhusal1/RachanaBhusal.github.io/static/css/main.894cc4b1.css.map",
+    "main.586a8b0c.js.map": "/RachanaBhusal1/RachanaBhusal.github.io/static/js/main.586a8b0c.js.map",
+    "787.635aedaa.chunk.js.map": "/RachanaBhusal1/RachanaBhusal.github.io/static/js/787.635aedaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.117aca9e.js"
+    "static/css/main.894cc4b1.css",
+    "static/js/main.586a8b0c.js"
   ]
 }
